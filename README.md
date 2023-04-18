@@ -9,7 +9,7 @@ Aficcionada por aprender novas linguagens de programação.
   <img align="center" alt="key-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
-## Contatos
+## 📌 Contatos
 <div>
   <a href="https://www.facebook.com/profile.php?id=100002243846564" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" />
    <a href="https://www.instagram.com/beatriz_klm/" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
