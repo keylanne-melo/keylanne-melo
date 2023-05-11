@@ -16,7 +16,8 @@ Aficcionada por aprender novas linguagens de programação.
    <a href="mailto:keylannemenezes@gmail.com" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
    <a href="https://twitter.com/beatriz_klm" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
    <a href="https://www.linkedin.com/in/keylanne/" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-   
+  
+     ![Snake animation](https://github.com/devemdobro/keylanne-melo/blob/output/github-contribution-grid-snake.svg)
              
        
 </div>
