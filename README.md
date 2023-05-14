@@ -28,7 +28,7 @@ Aficcionada por aprender novas linguagens de programação.
  ##
 
 ![Keylanne GitHub stats](https://github-readme-stats.vercel.app/api?username=keylanne-melo&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keylanne-melo&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
  ##
  ![Snake animation](https://github.com/keylanne-melo/keylanne-melo/blob/output/github-contribution-grid-snake.svg)
