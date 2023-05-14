@@ -27,7 +27,7 @@ Aficcionada por aprender novas linguagens de programação.
 
  ##
 
-![Keylanne GitHub stats](https://github-readme-stats.vercel.app/api?username=keylanne-melo&show_icons=true&theme=dracula&card_width=600px)
+![Keylanne GitHub stats](https://github-readme-stats.vercel.app/api?username=keylanne-melo&show_icons=true&theme=dracula&card_heigth=600px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keylanne-melo&layout=donut&theme=dracula)
 
  ##
