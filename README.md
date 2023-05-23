@@ -1,5 +1,5 @@
 ## 💡 Sobre mim 
-
+Oi me chamo Keylanne Beatriz e sou uma fullstack Dev em formação. Atualmente faço faculdade de Análise  e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
 
 ## 🚀 Atualmente Estudando
