@@ -1,12 +1,10 @@
 ## 💡 Sobre mim 
-Eu sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
-Aficcionada por aprender novas linguagens de programação.
+
 
 
 ## 🚀 Atualmente Estudando
 <div style="display: inline_block"><br>
-  //<img align="center" alt="key-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  //<img align="center" alt="key-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
   <img align="center" alt="key-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="key-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
           
@@ -15,10 +13,10 @@ Aficcionada por aprender novas linguagens de programação.
 
 ## 📌 Contatos
 <div>
-  <a href="https://www.facebook.com/profile.php?id=100002243846564" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" />
-   <a href="https://www.instagram.com/beatriz_klm/" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
+  <a href="https://www.facebook.com/keylannebeatriz/" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" />
+   <a href="https://www.instagram.com/keylannebeatriz/" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
    <a href="mailto:keylannemenezes@gmail.com" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
-   <a href="https://twitter.com/beatriz_klm" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
+   <a href="https://twitter.com/keylannebeatriz" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
    <a href="https://www.linkedin.com/in/keylanne/" target="_blank"><img align="center" alt="facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
      
    
