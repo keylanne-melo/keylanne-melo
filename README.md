@@ -27,11 +27,11 @@ Aficcionada por aprender novas linguagens de programação.
 
  ##
 
-![Keylanne GitHub stats](https://github-readme-stats.vercel.app/api?username=keylanne-melo&show_icons=true&theme=dracula&PAT_1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keylanne-melo&layout=demo&theme=dracula&PAT_1)
+![Keylanne GitHub stats](https://github-readme-stats.vercel.app/api?username=keylannebeatriz&show_icons=true&theme=dracula&PAT_1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keylannebeatriz&layout=demo&theme=dracula&PAT_1)
 
  ##
- ![Snake animation](https://github.com/keylanne-melo/keylanne-melo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/keylannebeatriz/keylannebeatriz/blob/output/github-contribution-grid-snake.svg)
 
 
 
