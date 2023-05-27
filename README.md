@@ -28,7 +28,7 @@ Oi me chamo Keylanne Beatriz e sou uma fullstack Dev em formação. Atualmente f
  ##
 
 ![Keylanne GitHub stats](https://github-readme-stats.vercel.app/api?username=keylannebeatriz&show_icons=true&theme=dracula&PAT_1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keylannebeatriz&layout=demo&theme=dracula&PAT_1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keylannebeatriz&layout=compact&theme=dracula&PAT_1)
 
  ##
  ![Snake animation](https://github.com/keylannebeatriz/keylannebeatriz/blob/output/github-contribution-grid-snake.svg)
