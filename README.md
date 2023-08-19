@@ -4,7 +4,9 @@ Olá! Eu me chamo Keylanne Beatriz. Formada em Física pela UFF, busco transiç�
 
 ## 🚀 Atualmente Estudando
 <div style="display: inline_block"><br>
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
 </div>
 
 ## 📌 Contatos
