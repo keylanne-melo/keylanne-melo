@@ -1,17 +1,10 @@
 ## 💡 Sobre mim 
-Oi me chamo Keylanne Beatriz e sou uma fullstack Dev em formação pelo curso DevQuest. Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
+Olá! Eu me chamo Keylanne Beatriz. Formada em Física pela UFF, busco transição de carreira para a área de Cibersegurança. Atualmente, faço segunda graduação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
-## 🚀 Tecnologias 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-</div>
 
 ## 🚀 Atualmente Estudando
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Javascript" height="30" Width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />   
-          
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ## 📌 Contatos
